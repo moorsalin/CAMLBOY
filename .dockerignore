@@ -1,0 +1,17 @@
+# OCaml build artifacts
+_build/
+*.cmi
+*.cmo
+*.cmx
+*.cma
+*.cmxa
+*.cmxs
+*.o
+*.a
+*.so
+*.annot
+
+# OPAM-related files
+_opam/
+.opam/
+
